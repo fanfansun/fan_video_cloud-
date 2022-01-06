@@ -15,4 +15,4 @@ https://github.com/fanfansun/-Database-decompilation
 本项目使用swgger2 进行接口服务
 
 
-![GIF 2022-1-6 20-19-11.gif](assets/GIF 2022-1-6 20-19-11-20220106202323-rfo4imh.gif)
+![GIF 2022-1-6 20-19-11.gif](https://github.com/fanfansun/fan_video_cloud-/blob/main/assets/GIF%202022-1-6%2020-19-11-20220106202323-rfo4imh.gif)
